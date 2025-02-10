@@ -14,11 +14,11 @@ Rather than mapping concepts between the two domains, the general idea is to bri
 
 The database is defined inside the app, which enables re-using the definition to generate queries, CRUD endpoints etc.
 
-The framework automagically tracks what data has already been stored/committed at the record/column level, as well as emulating nested transactions using savepoints.
+The framework automagically tracks what data has already been stored/committed at the record/column level, as well as emulate nested transactions using savepoints.
 
 ### Implementations
 
-The following projects aim to implement the `tyred` framework in different programming languges. Some implementations are more complete than others. Most work currently happens in `tyred-java`, but the goal is to gradually consolidate the code into semi-compatible production ready implementations.
+The following projects implement the `tyred` framework in different programming languges, some are more complete than others. Most work currently happens in `tyred-java`. The goal is to gradually consolidate the code into semi-compatible production ready implementations.
 
 - [Java](https://github.com/codr7/tyred-java)
 - [C#](https://github.com/codr7/hostr/tree/main/src/Hostr/DB)
