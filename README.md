@@ -1,7 +1,7 @@
 ## Typed Relational Database access
 
 ### Introduction
-*tyred-X* represents the culmination of 26 years of research into finding better ways of interfacing relational databases with general purpose programming languages.
+*tyred-X* represents the culmination of more than 20 years research into finding better ways of interfacing relational databases with general purpose programming languages.
 
 I largely hold this [post](https://web.archive.org/web/20220823105749/http://blogs.tedneward.com/post/the-vietnam-of-computer-science/) responsible. It's a long read, but well worth the effort if you find the subject interesting.
 
