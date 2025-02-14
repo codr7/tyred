@@ -1,7 +1,7 @@
 ## Typed Relational Database access
 
 ### Introduction
-The *tyred* framework represents the culmination of more than 20 years research into finding better ways of interfacing relational databases with general purpose programming languages.
+The `tyred` framework represents the culmination of more than 20 years research into finding better ways of interfacing relational databases with general purpose programming languages.
 
 I largely hold this [post](https://web.archive.org/web/20220823105749/http://blogs.tedneward.com/post/the-vietnam-of-computer-science/) responsible. It's a long read, but well worth the effort if you find the subject interesting.
 
@@ -28,7 +28,7 @@ The framework automagically tracks what data has already been stored/committed a
 
 ### Implementations
 
-The following projects implement the *tyred* framework in different programming languges, some are more complete than others. Most work currently happens in `tyred-java`. The goal is to gradually consolidate the code into semi-compatible production ready implementations.
+The following projects implement the `tyred` framework in different programming languges, some are more complete than others. Most work currently happens in `tyred-java`. The goal is to gradually consolidate the code into semi-compatible production ready implementations.
 
 - [Java](https://github.com/codr7/tyred-java)
 - [C#](https://github.com/codr7/hostr/tree/main/src/Hostr/DB)
