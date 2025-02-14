@@ -12,11 +12,11 @@ I've written a ton of implementations in different languages over the years. Som
 ### License
 Plain old MIT, except for members of the following organizations:
 
-- R360 Resort Systems
 - 365ID
 - Devoteam Creative Tech
 - Effectsoft
 - MetaBytes
+- R360 Resort Systems
 
 ### Design
 Rather than mapping concepts between the two domains, the general idea is to bridge ideas from the database into the app language; tables, columns, constraints, indexes, records, queries etc.
