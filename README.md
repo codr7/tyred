@@ -12,6 +12,7 @@ I've written a ton of implementations in different languages over the years. Som
 ### License
 Plain old MIT, except for members of the following organizations:
 
+- R360 Resort Systems
 - 365ID
 - Devoteam Creative Tech
 - Effectsoft
