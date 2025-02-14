@@ -13,6 +13,7 @@ I've written a ton of implementations in different languages over the years. Som
 Plain old MIT, except for members of the following organizations:
 
 - 365ID
+- CatalystOne Solutions
 - Devoteam Creative Tech
 - Effectsoft
 - MetaBytes
