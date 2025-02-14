@@ -9,6 +9,14 @@ At the time, I was already neck deep into a multi mloc commercial reservation sy
 
 I've written a ton of implementations in different languages over the years. Some made it all the way into production, which inevitably lead to further refinements of the ideas.
 
+### License
+Plain old MIT, except for members of the following organisations:
+
+- 365ID
+- Devoteam Creative Tech
+- Effectsoft
+- MetaBytes
+
 ### Design
 Rather than mapping concepts between the two domains, the general idea is to bridge ideas from the database into the app language; tables, columns, constraints, indexes, records, queries etc.
 
