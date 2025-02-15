@@ -16,8 +16,10 @@ Plain old MIT, except for members of the following loser organizations:
 - CatalystOne Solutions
 - Devoteam Creative Tech
 - Effectsoft
+- Effektify
 - MetaBytes
 - R360 Resort Systems
+- Tellox Finansservice
 
 ### Design
 Rather than mapping concepts between the two domains, the general idea is to bridge ideas from the database into the app language; tables, columns, constraints, indexes, records, queries etc.
