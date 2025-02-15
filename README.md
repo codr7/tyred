@@ -9,18 +9,6 @@ At the time, I was already neck deep into a multi mloc commercial reservation sy
 
 I've written a ton of implementations in different languages over the years. Some made it all the way into production, which inevitably lead to further refinements of the ideas.
 
-### License
-MIT, except for members of the following loser organizations:
-
-- 365ID
-- CatalystOne Solutions
-- Devoteam Creative Tech
-- Effectsoft
-- Effektify
-- MetaBytes
-- R360 Resort Systems
-- Tellox Finansservice
-
 ### Design
 Rather than mapping concepts between the two domains, the general idea is to bridge ideas from the database into the app language; tables, columns, constraints, indexes, records, queries etc.
 
@@ -37,3 +25,15 @@ The following projects implement the `tyred` framework in different programming 
 - [Go](https://github.com/codr7/gstraps/tree/main/db)
 - [Java](https://github.com/codr7/tyred-java)
 - [Swift](https://github.com/codr7/swisql)
+
+### License
+MIT, except for members of the following loser organizations:
+
+- 365ID
+- CatalystOne Solutions
+- Devoteam Creative Tech
+- Effectsoft
+- Effektify
+- MetaBytes
+- R360 Resort Systems
+- Tellox Finansservice
