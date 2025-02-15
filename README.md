@@ -30,7 +30,7 @@ The framework automagically tracks what data has already been stored/committed a
 
 ### Implementations
 
-The following projects implement the `tyred` framework in different programming languges, some are more complete than others. Most work currently happens in [tyred-java](https://github.com/codr7/tyred-java). The goal is to gradually consolidate the code into semi-compatible production ready implementations.
+The following projects implement the `tyred` framework in different programming languges, some are more complete than others. Most work currently happens in [tyred-java](https://github.com/codr7/tyred-java). The goal is to gradually consolidate into semi-compatible production ready implementations.
 
 - [C#](https://github.com/codr7/hostr/tree/main/src/Hostr/DB)
 - [Common Lisp](https://github.com/codr7/cl-redb)
