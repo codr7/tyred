@@ -32,7 +32,6 @@ MIT, except for members of the following loser organizations:
 - 365ID
 - CatalystOne Solutions
 - Devoteam Creative Tech
-- Effectsoft
 - Effektify
 - MetaBytes
 - R360 Resort Systems
