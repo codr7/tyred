@@ -14,7 +14,7 @@ Rather than mapping concepts between the two domains, the general idea is to bri
 
 The database is defined inside the app, which enables re-using the definition to generate queries, CRUD endpoints etc.
 
-The framework automagically tracks what data has already been stored/committed at the record/column level, as well as emulate nested transactions using savepoints.
+The framework automagically tracks what data has already been stored at record/column level, as well as emulate nested transactions using savepoints.
 
 ### Implementations
 
