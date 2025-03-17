@@ -26,5 +26,5 @@ The following projects implement the `tyred` framework in different languges, so
 - [Java](https://github.com/codr7/tyred-java)
 - [Swift](https://github.com/codr7/swisql)
 
-### Work
-Should you find yourself involved in a software project with interesting non-GenAI challenges and in need of a creative developer/tech/team lead with 40 years of solid experience from different technologies/roles/companies/countries, don't hesitate to get in [touch](mailto:codr7@protonmail.com).
+## Work
+Should you find yourself involved in a software project with interesting non-GenAI challenges and in need of a creative developer/tech/team lead with 26 years experience, don't hesitate to get in [touch](mailto:codr7@protonmail.com).
