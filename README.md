@@ -9,10 +9,10 @@ At the time, I was already neck deep into a multi mloc commercial reservation sy
 
 I've written a ton of implementations in different languages over the years. Some made it all the way into production, which inevitably lead to further refinements of the design.
 
-## Donations
-If you would like to see this project succeed, all contributions are welcome.
+## Support
+I've decided to release the book using an open license to benefit as many as possible, because I believe knowledge should be shared freely.
 
-I've decided to release the project using an open license to benefit as many as possible, because I believe knowledge should be shared freely. But I also believe in compensation for creators; and the less economic pressure I have to deal with, the more time and energy I can put into the project. 
+But I also believe in compensation for creators; and the less economic pressure I have to deal with, the more time and energy I can put into the project. Please take a moment to consider chipping in if you like the idea. Nothing is free in this world, your contribution could make a big difference.
 
 The repository is set up for sponsoring via Stripe and Liberapay, alternatively you may use BTC (bitcoin:18k7kMcvPSSSzQtJ6hY5xxCt5U5p45rbuh) or ETH (0x776001F33F6Fc07ce9FF70187D5c034DCb429811). 
 
